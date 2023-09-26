@@ -60,3 +60,4 @@ I need to focus on how CSS works, especially when working on responsive design. 
 
 
 
+# Product-preview-card
