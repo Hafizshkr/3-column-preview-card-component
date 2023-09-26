@@ -33,8 +33,8 @@ The challenge is design 3 column card component.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hafizshkr/3-column-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://3-column-preview-card-component-theta-dusky.vercel.app/)
+- Solution URL: https://github.com/Hafizshkr/3-column-preview-card-component.git
+- Live Site URL: https://3-column-preview-card-component-theta-dusky.vercel.app/
 
 
 ### Built with
