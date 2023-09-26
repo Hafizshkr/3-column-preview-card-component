@@ -73,7 +73,7 @@ p{
  
 .first-card button, .second-card button, .third-card button {
     padding: 12px 25px;
-    border: none;
+    border: solid 1px;
     border-radius: 20px;
     background: white;
     margin-bottom: 20px;
@@ -84,7 +84,6 @@ p{
 .first-card button:hover , .second-card button:hover , .third-card button:hover {
     background: transparent;
     color: white;
-    border: solid 1px;
     border-color: white;
 }
 
